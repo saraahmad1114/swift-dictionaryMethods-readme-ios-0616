@@ -1,3 +1,4 @@
+//dictionaries are very useful
 let toyStoryFilms = [
     "Toy Story",
     "Toy Story 2",
